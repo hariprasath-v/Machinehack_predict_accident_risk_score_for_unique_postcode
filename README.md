@@ -5,7 +5,7 @@
 
 # About
 
-### Machine Learning model to predict Accident Risk Index by using area/district level accident data..
+### Machine Learning model to predict Accident Risk Index by using area/district level accident data.
 
 
 ### Competition Public LB Rank:201   &  Private LB Rank:200
