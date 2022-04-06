@@ -19,7 +19,6 @@
  * MH_predict_accident_risk_score_for_unique_postcode_EDA.ipynb
  
     ### Packages Used,
-        * Sklearn
         * seaborn
         * Pandas
         * klib
@@ -29,17 +28,18 @@
     
     ### Basic Exploratory Data Analysis
     
-* odetocode_predicting_weather_using_alien_fruit_properties_Model.ipynb
+* MH_predict_accident_risk_score_for_unique_postcode_Model.ipynb
     ### Packages Used,
         * Sklearn
+        * re
         * Pandas
         * Numpy
         * Matplotlib
-        * catboost
+        * pycaret
         * shap
-        * optuna
+      
      ### Data Pre-processing         
-     ### Created Catboost classifier model and tune the hyperparameters with the optuna framework.
+     ### Created  pycaret voting regressor model.
      ### Model interpretation with shap  
 
      
