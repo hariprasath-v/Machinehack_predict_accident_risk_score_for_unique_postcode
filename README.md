@@ -43,19 +43,34 @@
      ### Model interpretation with shap  
 
      
+### Residuals Plot
+
+![Alt text](https://github.com/hariprasath-v/Machinehack_predict_accident_risk_score_for_unique_postcode/blob/main/Pycaret%20Voting%20Regressor%20Residuals%20plot.png)
 
 
-### Feature Importance Catboost  
+### Prediction Error Plot
 
-![Alt text](https://github.com/hariprasath-v/Machinehack-odetocode_predicting_weather_using_alien_fruit_properties/blob/main/Feature%20Importance_catboost_model.png)
-
-
-### Hyperparameter Importance
-
-![Alt text](https://github.com/hariprasath-v/Machinehack-odetocode_predicting_weather_using_alien_fruit_properties/blob/main/Hyperparameter%20Importance%20catboost_model.png)
+![Alt text](https://github.com/hariprasath-v/Machinehack_predict_accident_risk_score_for_unique_postcode/blob/main/Pycaret%20Voting%20Regressor%20Prediction%20Error%20Plot.png)
 
 
+### Pycaret Feature Importance Plot
 
+![Alt text](https://github.com/hariprasath-v/Machinehack_predict_accident_risk_score_for_unique_postcode/blob/main/Pycaret%20Catboost%20Regressor%20Feature%20Importance%20Plot.png)
+
+
+### SHAP Feature Importance  
+
+![Alt text](https://github.com/hariprasath-v/Machinehack_predict_accident_risk_score_for_unique_postcode/blob/main/Shap%20Feature%20Importance%20Plot.png)
+
+
+### SHAP Feature Impact
+
+![Alt text](https://github.com/hariprasath-v/Machinehack_predict_accident_risk_score_for_unique_postcode/blob/main/Shap%20Feature%20Impact%20on%20Model%20Plot.png)
+
+
+### SHAP Feature Impact on Single observation
+
+![Alt text](https://github.com/hariprasath-v/Machinehack_predict_accident_risk_score_for_unique_postcode/blob/main/Shap%20Single%20Observation%20Feature%20Impact%20Plot.png)
 
 
 
